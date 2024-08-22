@@ -1,0 +1,32 @@
+body{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  background:rgb(217, 229, 247);
+}
+.parent{
+ margin:250px;
+}
+.Qr{
+  margin:15px;
+  height:250px;
+  width:250px;
+  border-radius:8px;
+}
+.card{
+  height:440px;
+  width:280px;
+  background:white;
+  border-radius:20px;
+  box-shadow:0px 0px 4px;
+} 
+h1{
+  margin:0 20px;
+  font-weight:bold;
+  font-size: 1.2rem;
+}
+p{
+  color:grey;
+  margin:20px;
+  font-size:1rem;
+}
